@@ -1,0 +1,52 @@
+body{
+background-color: white;
+color:white;
+font-family: Montserrat,sans-serif;
+font-weight: bold;
+}
+
+.odin-recipes{
+    border: 2px dotted;
+    padding:10px;
+    border-radius:15px;
+}
+.odin-recipes h1{
+    text-align: center;
+    color: black;
+}
+.odin-recipes ul{
+    text-align:center;
+  list-style:square;
+  list-style:none;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+p{
+    text-align: center;
+    color: black;
+     font-size: large;
+     font-style: italic;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.odin-recipes li{
+    padding-bottom: 6px;
+    border-bottom: dotted 1px;
+    color: black;
+}
+a{
+color: blue;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: green;
+}
+.container{
+    background-color: blanchedalmond;
+}
